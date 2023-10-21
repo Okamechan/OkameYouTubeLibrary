@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OkameYouTubeLibrary
 {
-    public class Class1
+    internal class Utils
     {
     }
 }
